@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36672
     wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38680#The-ThirteenthGreatest-of-Centuries
 gutenberg_issued: '2012-01-27'
 gutenberg_type: Text
 identifiers:
