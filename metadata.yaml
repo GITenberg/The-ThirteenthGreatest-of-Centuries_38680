@@ -1,0 +1,32 @@
+_repo: The-ThirteenthGreatest-of-Centuries_38680
+_version: 0.1.0
+alternative_title: The 13th, Greatest of Centuries
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, J. J. (James Joseph)
+    - Walsh, James Joseph
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: ''
+gutenberg_issued: '2012-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CB'
+- !lcsh 'Universities and colleges -- History'
+- !lcsh 'Civilization, Medieval -- 13th century'
+title: The Thirteenth, Greatest of Centuries
+url: http://www.gutenberg.org/ebooks/38680
